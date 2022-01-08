@@ -1,0 +1,23 @@
+body
+{
+  color: rgb(64, 66, 66);
+  background: #32cbdf;
+}
+
+#Score
+{
+ font-size: 30px;
+ margin-left: 70px;
+}
+
+#Timer
+{
+ font-size: 30px;
+ float: right;
+ margin-right: 70px;
+}
+
+#Sketch_needed_draw
+{
+  color:rgb(250, 64, 64);
+}
